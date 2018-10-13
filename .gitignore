@@ -1,0 +1,11 @@
+*.xlsx
+*.exe
+*.zip
+*.gz
+*.npy
+.env
+model.ckpt*
+*.pickle
+phantomjs-2.1.1*
+.ipynb_checkpoints
+__pycache__
